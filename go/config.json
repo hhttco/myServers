@@ -1,0 +1,8 @@
+{
+  "auth_secret": "auth_secret111",
+  "listen": ":9527",
+  "hook_uri": "/hook",
+  "update_uri": "/my_tz",
+  "web_uri": "/ws",
+  "hook_token": "hook_token"
+}
