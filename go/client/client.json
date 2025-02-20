@@ -1,0 +1,6 @@
+{
+  "auth_secret": "auth_secret111",
+  "url": "ws://141.11.148.185:9527/my_tz",
+  "net_name": "eth0",
+  "name": "HK 001"
+}
