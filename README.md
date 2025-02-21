@@ -1,7 +1,7 @@
 # myServers
 这个一个服务器探针程序
 
-# 服务端一键安装脚本
+# 面板一键安装脚本
 
     bash <(curl -Ls https://raw.githubusercontent.com/hhttco/shell/refs/heads/main/MyServersTz/my-servers-install.sh)
 
